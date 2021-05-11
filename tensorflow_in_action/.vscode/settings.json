@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "/usr/local/anaconda2/envs/AI/bin/python",
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.tabSize": 4,
+    "python.linting.pylintArgs": [ // 关闭pylint的波浪线提示
+        "--disable=W,C,E" 
+    ],  
+    // "editor.cursorSmoothCaretAnimation": false,
+    // "code-runner.executorMap": {
+    //     "python": "/usr/local/anaconda2/envs/AI/bin/python -u"
+    // },  
+    "editor.fontFamily": "monospace"
+}
